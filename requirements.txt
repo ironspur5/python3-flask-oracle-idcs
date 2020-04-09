@@ -1,0 +1,7 @@
+flask
+requests
+jwt
+six
+cryptography
+simplejson
+lru-ttl
